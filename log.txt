@@ -1,4 +1,9 @@
-4d4fd0d (HEAD -> main) Ticked off task 1.1
+8894809 Finished Task 2.4
+864a958 Finished Task 2.3
+1721981 Finished Task 2.2
+a406b30 Finished Task 2.1
+7fe634f Finished Task 1.2
+4d4fd0d Ticked off task 1.1
 526fd62 Added a dependency
 26df9b2 Added hamcrest dependency
 b3eca1d Fixed CheckStyle issues in Task 1.1 for StatementPrinter
